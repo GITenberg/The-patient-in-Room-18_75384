@@ -1,0 +1,41 @@
+_repo: The-patient-in-Room-18_75384
+_version: 0.0.1
+alternative_title: The patient in Room Eighteen
+creator:
+  author:
+    agent_name: Eberhart, Mignon G. (Mignon Good)
+    aliases:
+    - Eberhart, Mignon Good
+    - Eberhart, M. G. (Mignon Good)
+    - Good, Mignonette
+    - Perry, Mignon Good Eberhart
+    birthdate: 1899
+    deathdate: 1996
+    gutenberg_agent_id: '57974'
+    url: http://www.gutenberg.org/2009/agents/57974
+    wikipedia: https://en.wikipedia.org/wiki/Mignon_G._Eberhart
+description: ''
+gutenberg_issued: '2025-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75384'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/101865748
+pgterms:marc905: 20250208144113eberhart
+pgterms:marc906: '1929'
+pgterms:marc907: US
+production_note: Brian Raiter
+publication_note: '  $aUnited States :$bDoubleday, Doran & Company, Inc., $c1929.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Medical fiction'
+- !lcsh 'Nurses -- Fiction'
+- !lcsh 'Women detectives -- United States -- Fiction'
+- !lcsh 'Keate, Sarah (Fictitious character) -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The patient in Room 18
+url: http://www.gutenberg.org/ebooks/75384
