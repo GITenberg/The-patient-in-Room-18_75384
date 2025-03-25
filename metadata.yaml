@@ -1,6 +1,9 @@
 _repo: The-patient-in-Room-18_75384
 _version: 0.1.0
 alternative_title: The patient in Room Eighteen
+covers:
+- cover_type: archival
+  image_path: 75384-h/images/cover.jpg
 creator:
   author:
     agent_name: Eberhart, Mignon G. (Mignon Good)
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57974
     wikipedia: https://en.wikipedia.org/wiki/Mignon_G._Eberhart
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75384#The-patient-in-Room-18
 gutenberg_issued: '2025-02-16'
 gutenberg_type: Text
 identifiers:
